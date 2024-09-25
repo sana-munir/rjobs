@@ -5,6 +5,21 @@
       "bundler": "metro"
     },
     "name": "rjobs",
-    "slug": "rjobs"
+    "slug": "rjobs",
+    "extra": {
+      "eas": {
+        "projectId": "a6d9017a-42ef-4825-b386-1fe8472b655f"
+      }
+    },
+    "android": {
+      "package": "com.sana_munir.rjobs"
+    },
+    "runtimeVersion": {
+      "policy": "appVersion"
+    },
+    "updates": {
+      "url": "https://u.expo.dev/a6d9017a-42ef-4825-b386-1fe8472b655f"
+    },
+    "ios": {}
   }
 }
